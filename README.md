@@ -4,11 +4,6 @@ Data-Analytics-Portfolio
 │
 ├── 01-Excel-Projects
     └── Business-Analytics
-        ├── data
-        ├── analysis
-        ├── dashboard
-        └── README.md
-│
 ├── 02-SQL-Projects
 │
 ├── 03-Python-Projects
